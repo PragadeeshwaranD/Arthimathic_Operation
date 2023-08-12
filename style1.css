@@ -1,0 +1,50 @@
+.container{
+    text-align: center;
+    margin-top: 2%;
+    /* background-color: red; */
+    padding:2%;
+}
+div>label{
+    font-size: 2vw;
+    color:white;
+    margin-right: 1%;
+    /* background-color:#272829; */
+}
+.com{
+    font-size: 1.7vw;
+    color:black;
+    background-color: white;
+}
+div>button{
+    font-size: 2vw;;
+    color:white;
+    background-color: blue;;
+}
+*{
+    background-color: #35155D;
+}
+.com1{
+    background-color: blue;
+    color:white;
+    font-size:2vw;
+}
+.head{
+    color:pink;
+    text-align: center;
+    margin-top: 1%;
+}
+.container1{
+    border:5px solid red;
+    height:90vh;
+    margin:2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+img{
+    width:18%;
+    height:6%;
+    margin-top:7%
+}
+.container2{
+    text-align: center;
+}
